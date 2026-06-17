@@ -14,12 +14,6 @@ system engineer • cloud • devops • ai systems
 
 ---
 
-[ GitHub ](https://github.com/harazyuku) • [ Portfolio ](https://your-site.com) • [ Mail ](mailto:your@mail.com)
-
-</div>
-
----
-
 ## stack
 
 ## stack
