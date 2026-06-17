@@ -8,7 +8,7 @@ system engineer • cloud • devops • ai systems
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-0b0f14?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harazyuku)　[![Portfolio](https://img.shields.io/badge/Portfolio-450A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://your-site.com)　[![Email](https://img.shields.io/badge/Email-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@mail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0b0f14?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harazyuku)　[![Portfolio](https://img.shields.io/badge/Portfolio-450A0A?style=for-the-badge&logo=vercel&logoColor=white)]([https://your-site.com](https://my-portfolio-lake-xi-jqe4v408s9.vercel.app/))　[![Email](https://img.shields.io/badge/Email-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ikehara.yuto.gaku@gmail.com)
 
 </div>
 
