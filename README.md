@@ -6,7 +6,11 @@ system engineer • cloud • devops • ai systems
 
 ---
 
-[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=000000&center=true&vCenter=true&width=600&lines=こんにちは;フロントエンドやってます;React勉強中です;TypeScriptも触ってます;バックエンドはNode.jsとLaravel;インフラはDockerとLinux;最近はCI/CDも触ってます;クラウドはAWSとGCP;個人開発でSaaS作ってます;将来はフリーランス目指してます;毎日コード書いてます;設計力もっと上げたい;ちゃんとしたエンジニアになりたい)](https://git.io/typing-svg)
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-0b0f14?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harazyuku)　[![Portfolio](https://img.shields.io/badge/Portfolio-450A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://your-site.com)　[![Email](https://img.shields.io/badge/Email-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@mail.com)
+
+</div>
 
 ---
 
