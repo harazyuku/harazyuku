@@ -42,14 +42,6 @@ system engineer • cloud • devops • ai systems
 
 ---
 
-## metrics
-
-<img src="https://github-readme-stats.vercel.app/api?username=harazyuku&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harazyuku&layout=compact&theme=tokyonight&hide_border=true" />
-
----
-
 ## system core
 
 <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" width="420" />
