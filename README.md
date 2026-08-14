@@ -89,18 +89,3 @@ u' Zluggga(J.g.gggma(gmgm(.mNJ((JJJNNJ..+mNa((g&mdNmgmmmmmggmmmgNg&&mJJ(((((((((
 .~.~..~..~.~.~.~~~~~~~~~~~~~~~~::::<WMMMMMMMMMHg..   .JMMMMHHMMMMMMMWWWWWWWWWWWWWWWWWWWWWWWWHHWWWI_.......d$dMMMMMM
 ```
 
-
-Cloud Platforms
-[ AWS ] [ GCP ] [ Azure ] [ Cloudflare ]
-
-Container & Orchestration
-[ Docker ] [ Kubernetes ] [ Compose ]
-
-CI/CD & Automation
-[ GitHub Actions ] [ Jenkins ] [ Argo CD ]
-
-Infrastructure as Code
-[ Terraform ] [ Ansible ] [ AWS CDK ]
-
-AI & Agentic Tools
-[ OpenAI ] [ Claude ] [ Gemini ] [ MCP ]
