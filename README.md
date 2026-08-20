@@ -139,4 +139,4 @@ u' Zluggga(J.g.gggma(gmgm(.mNJ((JJJNNJ..+mNa((g&mdNmgmmmmmggmmmgNg&&mJJ(((((((((
                    ::__.._~_`                        └──────────────────── Product Development
    
 ```
-![KAFU ASCII Animation](.kafu_browser-ascii.gif)
+<img src="kafu_browser-ascii.gif" alt="KAFU ASCII">
